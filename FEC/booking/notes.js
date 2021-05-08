@@ -1,0 +1,1 @@
+//  let campId = req.params.campId;

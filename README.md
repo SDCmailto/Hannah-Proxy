@@ -30,7 +30,7 @@ By default, these values will be localhost for testing purposes, meaning you sho
 
 Once you create the .env file, you will need to build and then run the service
 ```sh
-npm build
+npm run build
 npm start
 ```
 
